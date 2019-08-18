@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount: 1.5
+  ingredient_id: 1
+  dish_id: 1
+  date_meal_record_id: 1
+
+two:
+  amount: 1.5
+  ingredient_id: 1
+  dish_id: 1
+  date_meal_record_id: 1
